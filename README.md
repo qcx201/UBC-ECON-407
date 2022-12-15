@@ -9,7 +9,9 @@ The main innovation is modeling the trade-off between consumption utility from l
 
 I replicate their model results in python using a dynamic programming approach.
 
+### Course info
 Course repository: https://github.com/wupeifan/ECON_407_Fall2020.
+
 QuantEcon (main course resource): https://quantecon.org/lectures/
 
 ### References
